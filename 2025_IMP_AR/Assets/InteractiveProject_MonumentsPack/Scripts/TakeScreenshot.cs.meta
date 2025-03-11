@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 87f9b3b07ea32ba4bac1278f42606df8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13863
+  packageName: Low Poly Monuments Pack
+  packageVersion: 1.1
+  assetPath: Assets/InteractiveProject_MonumentsPack/Scripts/TakeScreenshot.cs
+  uploadId: 33633

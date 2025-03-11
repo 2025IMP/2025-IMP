@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 8dcf1d4c89c74444498c56dad08459bc
+labels:
+- Grenade
+- Mine
+- Mines
+- Pack
+- Weapon
+- Weapons
+- Grenades
+- Prop
+- Throw
+- Holy
+- Handgrenade
+- Package
+- Military
+- Shooter
+- Mobile
+- Lowpoly
+- Hardsurface
+timeCreated: 1449079907
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51153
+  packageName: Great Greandes and Mines Pack
+  packageVersion: 1.0
+  assetPath: Assets/Assets/Models/Mine1/Materials/Mine2.mat
+  uploadId: 92438

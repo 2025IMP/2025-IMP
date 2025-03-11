@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 075788cc88468f74cb2f6609dbb51196
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 245559
+  packageName: Horror Plush Toys - Spooky Mascot Creatures
+  packageVersion: 1.0
+  assetPath: Assets/Horror_Plush_Toys/DemoScenes/CameraAnimController.controller
+  uploadId: 563779
